@@ -35,24 +35,49 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-Java • Python • JavaScript • SQL • HTML • CSS • C++(basics) 
+## 💻 Programming Languages
 
-### ⚡ Frontend
-React.js • HTML5 • CSS3 • Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
 
-### 🔥 Backend
-Node.js • Express.js • REST APIs
+## 🌐 Frontend Development
 
-### 🗄️ Database
-MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
-### 🤖 AI / ML
-YOLOv8 • TensorFlow • OpenCV • Scikit-learn • Pandas • NumPy
+## ⚙️ Backend Development
 
-### 🛠️ Tools
-Git • GitHub • VS Code • Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MiDaS-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -72,6 +97,19 @@ Git • GitHub • VS Code • Postman
 🩺 Diabetes Prediction System
 
 ---
+
+## 📚 Publications & Research
+
+### 📄 Comparative Analysis of YOLOv8 and EfficientDet for Object Detection in Autonomous Vehicles
+
+📝 Status: Published
+
+**Research Areas:** Computer Vision • Deep Learning • Autonomous Driving • Object Detection
+
+- Conducted a comparative study of **YOLOv8** and **EfficientDet** for real-time object detection in autonomous driving environments.
+- Evaluated both models based on **accuracy, inference speed, computational efficiency, and detection performance** using the **KITTI dataset**.
+- Explored the trade-offs between detection accuracy and real-time performance to identify the most suitable model for intelligent transportation systems.
+
 
 ## 🌱 Currently Working On
 
