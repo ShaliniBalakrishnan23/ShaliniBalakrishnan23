@@ -13,12 +13,17 @@
 
 💻 Interested in Full Stack Web Development and Artificial Intelligence
 
-🌱 Currently Learning
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms
+💻 Passionate about building scalable web applications and intelligent AI-powered solutions.
+
+🚀 Enthusiastic about solving real-world problems through software development and machine learning.
+
+🔍 Areas of Interest
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Deep Learning
+- Data Analytics
+- Computer Vision
+- Data Science
 
 🎯 2026 Goals
 - Build Full Stack MERN Projects
